@@ -1,0 +1,112 @@
+.login-or-signup {
+  position: absolute;
+  top: 86px;
+  left: 74px;
+  display: inline-block;
+  white-space: pre-wrap;
+  width: 180px;
+}
+.name,
+.text {
+  width: 83px;
+  position: relative;
+  display: inline-block;
+  height: 23px;
+  flex-shrink: 0;
+}
+.text {
+  width: 38px;
+  margin-left: -18px;
+}
+.property-1filling-with-cursor-child {
+  width: 262px;
+  border-radius: var(--br-3xs);
+  border: 2px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  height: 45px;
+  margin-left: -18px;
+}
+.property-1filling-with-cursor {
+  position: absolute;
+  top: 6px;
+  left: 20px;
+  width: 262px;
+  height: 98px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.phone-number {
+  width: 148px;
+  position: relative;
+  display: inline-block;
+  height: 23px;
+  flex-shrink: 0;
+}
+.property-1default-property-2,
+.property-1variant3-property,
+.property-1variant4-property {
+  position: absolute;
+  top: 236px;
+  left: 20px;
+  width: 262px;
+  height: 98px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.property-1default-property-2,
+.property-1variant3-property {
+  top: 118px;
+}
+.property-1variant3-property {
+  top: 354px;
+}
+.property-1filling-with-cursor-parent {
+  position: absolute;
+  top: 115px;
+  left: 9px;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  width: 302px;
+  height: 472px;
+  overflow: hidden;
+  text-align: left;
+  font-family: var(--font-inknut-antiqua);
+}
+.login-or-signup-parent {
+  position: absolute;
+  top: 99px;
+  left: 22px;
+  border-radius: var(--br-xl);
+  border: 1px solid var(--m3-ref-neutral-neutral0);
+  box-sizing: border-box;
+  width: 321px;
+  height: 643px;
+  overflow: hidden;
+}
+.image-5-icon {
+  position: absolute;
+  top: 27px;
+  left: 74px;
+  width: 205px;
+  height: 159px;
+  object-fit: cover;
+}
+.login {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 800px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--m3-ref-neutral-neutral0);
+  font-family: var(--font-hepta-slab);
+}

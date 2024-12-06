@@ -1,0 +1,258 @@
+.home-screen-child5 {
+  position: absolute;
+  top: 753px;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--m3-ref-neutral-neutral0);
+  box-sizing: border-box;
+  width: 360px;
+  height: 46px;
+}
+.image-3-icon6,
+.image-4-icon6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 61px;
+  height: 49px;
+  object-fit: cover;
+}
+.image-4-icon6 {
+  left: 73px;
+  width: 65px;
+}
+.shopping-bag-icon11 {
+  position: absolute;
+  top: 1px;
+  left: 312px;
+  width: 48px;
+  height: 48px;
+  overflow: hidden;
+}
+.heart-icon11,
+.notifications-icon6 {
+  position: absolute;
+  top: 5px;
+  left: 256px;
+  width: 49px;
+  height: 44px;
+  overflow: hidden;
+}
+.notifications-icon6 {
+  left: 201px;
+  width: 48px;
+}
+.chat6,
+.home6,
+.occassion6,
+.trending6 {
+  position: absolute;
+  top: 770px;
+  left: 7px;
+  display: inline-block;
+  width: 74px;
+  height: 19px;
+}
+.chat6,
+.occassion6,
+.trending6 {
+  left: 69px;
+  width: 94px;
+  height: 17px;
+}
+.chat6,
+.trending6 {
+  left: 163px;
+  width: 77px;
+  height: 15px;
+}
+.chat6 {
+  top: 771px;
+  left: 246px;
+  width: 61px;
+  height: 10px;
+}
+.home-screen-child6 {
+  position: absolute;
+  top: 760px;
+  left: 311px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-300);
+  width: 42px;
+  height: 37px;
+}
+.person-icon6 {
+  position: absolute;
+  top: 766px;
+  left: 316px;
+  width: 24px;
+  height: 24px;
+}
+.home-screen-child7 {
+  position: absolute;
+  top: 57px;
+  left: 9px;
+  border-radius: var(--br-5xs);
+  width: 340px;
+  height: 30px;
+}
+.camera-icon1 {
+  position: absolute;
+  top: calc(50% - 343px);
+  left: 312px;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.mic-icon1,
+.search-icon1,
+.search1 {
+  position: absolute;
+  top: 58px;
+  left: 283px;
+  width: 24px;
+  height: 24px;
+}
+.search-icon1,
+.search1 {
+  top: 57px;
+  left: 256px;
+}
+.search1 {
+  top: 63px;
+  left: 20px;
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 67px;
+  height: 13px;
+}
+.image-7-icon1 {
+  position: absolute;
+  top: 381px;
+  left: -5px;
+  width: 360px;
+  height: 258px;
+  object-fit: cover;
+}
+.home-screen-child8 {
+  left: 29px;
+  background-color: var(--color-white);
+  border: 1px solid var(--m3-ref-neutral-neutral0);
+  box-sizing: border-box;
+}
+.home-screen-child10,
+.home-screen-child11,
+.home-screen-child8,
+.home-screen-child9 {
+  position: absolute;
+  top: 194px;
+  border-radius: 50%;
+  width: 73px;
+  height: 73px;
+}
+.home-screen-child9 {
+  left: 111px;
+  background-color: var(--color-white);
+  border: 1px solid var(--m3-ref-neutral-neutral0);
+  box-sizing: border-box;
+}
+.home-screen-child10,
+.home-screen-child11 {
+  left: 193px;
+  object-fit: cover;
+}
+.home-screen-child11 {
+  left: 275px;
+}
+.casual-and-western1,
+.casual1,
+.ethnic,
+.sports-wear1 {
+  position: absolute;
+  top: 269px;
+  left: 45px;
+  font-size: var(--font-size-xs);
+  display: inline-block;
+  width: 50px;
+  height: 7px;
+}
+.casual-and-western1,
+.ethnic,
+.sports-wear1 {
+  top: 272px;
+  left: 119px;
+  width: 56px;
+  height: 9px;
+}
+.casual-and-western1,
+.sports-wear1 {
+  top: 273px;
+  left: 182px;
+  width: 82px;
+  height: 7px;
+}
+.casual-and-western1 {
+  left: 280px;
+  width: 86px;
+  height: 9px;
+}
+.home-screen-child12 {
+  position: absolute;
+  top: 164px;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--m3-ref-neutral-neutral0);
+  box-sizing: border-box;
+  width: 195px;
+  height: 448px;
+}
+.home-screen-child13 {
+  position: absolute;
+  top: 107px;
+  left: 0;
+  background-color: var(--color-gainsboro-300);
+  width: 65px;
+  height: 49px;
+}
+.image-10-icon,
+.image-9-icon {
+  position: absolute;
+  top: 647px;
+  left: 0;
+  width: 360px;
+  height: 79px;
+  object-fit: cover;
+}
+.image-9-icon {
+  top: 107px;
+  left: 6px;
+  width: 55px;
+  height: 52px;
+}
+.blank-line {
+  margin: 0;
+}
+.contact-us {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.clothes-beauty-accessories-container {
+  position: absolute;
+  top: 215px;
+  left: 26px;
+  display: inline-block;
+  width: 148px;
+  height: 371px;
+}
+.home-screen1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 800px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--m3-ref-neutral-neutral0);
+  font-family: var(--font-inter);
+}

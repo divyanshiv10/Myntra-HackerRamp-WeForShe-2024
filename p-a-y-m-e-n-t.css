@@ -1,0 +1,325 @@
+.group-child78,
+.group-child79 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 360px;
+  height: 86px;
+}
+.group-child79 {
+  top: 753px;
+  border: 1px solid var(--m3-ref-neutral-neutral0);
+  box-sizing: border-box;
+  height: 46px;
+}
+.image-3-icon12,
+.image-4-icon12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 61px;
+  height: 49px;
+  object-fit: cover;
+}
+.image-4-icon12 {
+  left: 73px;
+  width: 65px;
+}
+.shopping-bag-icon20 {
+  position: absolute;
+  top: 1px;
+  left: 312px;
+  width: 48px;
+  height: 48px;
+  overflow: hidden;
+}
+.heart-icon20,
+.notifications-icon12 {
+  position: absolute;
+  top: 5px;
+  left: 256px;
+  width: 49px;
+  height: 44px;
+  overflow: hidden;
+}
+.notifications-icon12 {
+  left: 201px;
+  width: 48px;
+}
+.chat12,
+.home12,
+.occassion12,
+.trending12 {
+  position: absolute;
+  top: 766px;
+  left: 7px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 74px;
+  height: 19px;
+}
+.chat12,
+.occassion12,
+.trending12 {
+  top: 768px;
+  left: 69px;
+  width: 94px;
+  height: 17px;
+}
+.chat12,
+.trending12 {
+  top: 770px;
+  left: 163px;
+  width: 77px;
+  height: 15px;
+}
+.chat12 {
+  left: 246px;
+  width: 61px;
+  height: 10px;
+}
+.group-child80 {
+  position: absolute;
+  top: 758px;
+  left: 307px;
+  width: 42px;
+  height: 37px;
+}
+.arrow-back-icon5,
+.payment2,
+.person-icon12 {
+  position: absolute;
+  top: 766px;
+  left: 316px;
+  width: 24px;
+  height: 24px;
+}
+.arrow-back-icon5,
+.payment2 {
+  top: 59px;
+  left: 6px;
+}
+.payment2 {
+  left: 34px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 134px;
+}
+.group-child81 {
+  position: absolute;
+  top: 104px;
+  left: 13px;
+  background-color: var(--color-white);
+  width: 336px;
+  height: 110px;
+}
+.group-child82 {
+  position: absolute;
+  top: 108px;
+  left: 10px;
+  width: 3px;
+  height: 99px;
+  object-fit: contain;
+}
+.cashback-voucher-of {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.show-more1 {
+  color: #2400ff;
+  white-space: pre-wrap;
+}
+.show-more {
+  margin: 0;
+}
+.cashback-voucher-of-container {
+  position: absolute;
+  top: 122px;
+  left: 32px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 296px;
+  height: 113px;
+}
+.arrow-drop-down-icon2,
+.payment-option {
+  position: absolute;
+  top: 175px;
+  left: 131px;
+  width: 37px;
+  height: 32px;
+}
+.payment-option {
+  top: 235px;
+  left: 21px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 188px;
+  height: 10px;
+}
+.arrow-left-icon,
+.go-back {
+  position: absolute;
+  top: 262px;
+  left: 6px;
+  width: 24px;
+  height: 24px;
+}
+.go-back {
+  top: 265px;
+  left: 32px;
+  display: inline-block;
+  width: 129px;
+  height: 8px;
+}
+.group-child83 {
+  position: absolute;
+  top: 306px;
+  left: 14px;
+  background-color: var(--color-white);
+  width: 320px;
+  height: 323px;
+}
+.select-option {
+  position: absolute;
+  top: 333px;
+  left: 23px;
+  display: inline-block;
+  width: 186px;
+  height: 29px;
+}
+.group-child84 {
+  position: absolute;
+  top: 362px;
+  left: 13px;
+  width: 323px;
+  height: 2px;
+  object-fit: contain;
+}
+.radio-button-unchecked-icon {
+  position: absolute;
+  top: 400px;
+  left: 28px;
+  width: 24px;
+  height: 24px;
+}
+.radio-button-unchecked-icon1,
+.radio-button-unchecked-icon2 {
+  position: absolute;
+  top: 580px;
+  left: 26px;
+  width: 24px;
+  height: 24px;
+}
+.radio-button-unchecked-icon2 {
+  top: 535px;
+}
+.debit-card,
+.radio-button-unchecked-icon3,
+.radio-button-unchecked-icon4 {
+  position: absolute;
+  top: 490px;
+  left: 26px;
+  width: 24px;
+  height: 24px;
+}
+.debit-card,
+.radio-button-unchecked-icon4 {
+  top: 445px;
+}
+.debit-card {
+  top: 400px;
+  left: 63px;
+  display: inline-block;
+  width: 177px;
+  height: 22px;
+}
+.emi,
+.net-banking,
+.pay-on-delivery,
+.walletupi {
+  position: absolute;
+  top: 446px;
+  left: 67px;
+  display: inline-block;
+  width: 148px;
+  height: 11px;
+}
+.emi,
+.pay-on-delivery,
+.walletupi {
+  top: 490px;
+  left: 73px;
+  width: 167px;
+  height: 22px;
+}
+.emi,
+.walletupi {
+  top: 536px;
+  left: 69px;
+  width: 156px;
+  height: 21px;
+}
+.emi {
+  top: 577px;
+  left: 72px;
+  width: 153px;
+  height: 25px;
+}
+.group-child85,
+.group-child86 {
+  position: absolute;
+  top: 661px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 360px;
+  height: 73px;
+}
+.group-child86 {
+  top: 676px;
+  left: 182px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-tomato-200);
+  width: 152px;
+  height: 43px;
+}
+.pay-now {
+  position: absolute;
+  right: 15px;
+  bottom: 89px;
+  display: inline-block;
+  color: var(--color-white);
+  width: 120px;
+  height: 21px;
+}
+.view-details1 {
+  margin: 0;
+  color: var(--color-tomato-200);
+}
+.view-details {
+  position: absolute;
+  top: 680px;
+  left: 23px;
+  display: inline-block;
+  width: 128px;
+  height: 39px;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 360px;
+  height: 799px;
+}
+.payment1 {
+  width: 100%;
+  position: relative;
+  background-color: #f4f3f3;
+  height: 800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--m3-ref-neutral-neutral0);
+  font-family: var(--font-inter);
+}

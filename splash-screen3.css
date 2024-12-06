@@ -1,0 +1,15 @@
+.image-1-icon3 {
+  position: absolute;
+  top: 0;
+  left: -131px;
+  width: 639px;
+  height: 872px;
+  object-fit: cover;
+}
+.splash-screen3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 800px;
+  overflow: hidden;
+}

@@ -1,0 +1,384 @@
+.android-large-4-child {
+  position: absolute;
+  top: 78px;
+  left: 10px;
+  border-radius: var(--br-5xs);
+  width: 340px;
+  height: 30px;
+}
+.android-large-4-item {
+  position: absolute;
+  top: 755px;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--m3-ref-neutral-neutral0);
+  box-sizing: border-box;
+  width: 360px;
+  height: 46px;
+}
+.image-3-icon5,
+.image-4-icon5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 61px;
+  height: 49px;
+  object-fit: cover;
+}
+.image-4-icon5 {
+  left: 73px;
+  width: 65px;
+}
+.shopping-bag-icon10 {
+  position: absolute;
+  top: 1px;
+  left: 312px;
+  width: 48px;
+  height: 48px;
+  overflow: hidden;
+}
+.heart-icon10,
+.notifications-icon5 {
+  position: absolute;
+  top: 5px;
+  left: 256px;
+  width: 49px;
+  height: 44px;
+  overflow: hidden;
+}
+.notifications-icon5 {
+  left: 201px;
+  width: 48px;
+}
+.chat5,
+.home5,
+.occassion5,
+.trending5 {
+  position: absolute;
+  top: 770px;
+  left: 7px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 74px;
+  height: 19px;
+}
+.chat5,
+.occassion5,
+.trending5 {
+  left: 69px;
+  width: 94px;
+  height: 17px;
+}
+.chat5,
+.trending5 {
+  left: 163px;
+  width: 77px;
+  height: 15px;
+}
+.chat5 {
+  top: 771px;
+  left: 246px;
+  width: 61px;
+  height: 10px;
+}
+.android-large-4-inner {
+  position: absolute;
+  top: 763px;
+  left: 307px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-300);
+  width: 42px;
+  height: 37px;
+}
+.person-icon5 {
+  position: absolute;
+  top: 766px;
+  left: 316px;
+  width: 24px;
+  height: 24px;
+}
+.image-12-icon,
+.image-13-icon {
+  position: absolute;
+  top: 123px;
+  left: 17px;
+  width: 55px;
+  height: 52px;
+  object-fit: cover;
+}
+.image-13-icon {
+  top: 204px;
+  height: 78px;
+}
+.ethnic-wear {
+  position: absolute;
+  top: 191px;
+  left: 17px;
+  font-size: var(--font-size-3xs);
+  display: inline-block;
+  width: 102px;
+  height: 19px;
+}
+.image-14-icon {
+  position: absolute;
+  top: 310px;
+  left: 20px;
+  width: 54.3px;
+  height: 78px;
+  object-fit: cover;
+}
+.datesparties1 {
+  position: absolute;
+  top: 298px;
+  left: 18px;
+  font-size: var(--font-size-3xs);
+}
+.image-15-icon {
+  position: absolute;
+  top: 414px;
+  left: 22px;
+  width: 52.4px;
+  height: 78px;
+  object-fit: cover;
+}
+.western-wear {
+  position: absolute;
+  top: 400px;
+  left: 17px;
+  font-size: var(--font-size-3xs);
+}
+.image-16-icon {
+  position: absolute;
+  top: 527px;
+  left: 22px;
+  width: 62px;
+  height: 78px;
+  object-fit: cover;
+}
+.officeinterview {
+  position: absolute;
+  top: 515px;
+  left: 17px;
+  font-size: var(--font-size-3xs);
+}
+.image-17-icon {
+  position: absolute;
+  top: 640px;
+  left: 19px;
+  width: 62px;
+  height: 78.3px;
+  object-fit: cover;
+}
+.casual-wear {
+  position: absolute;
+  top: 626px;
+  left: 20px;
+  font-size: var(--font-size-3xs);
+}
+.image-18-icon,
+.image-19-icon,
+.image-20-icon {
+  position: absolute;
+  top: 649px;
+  left: 101px;
+  border-radius: var(--br-51xl);
+  width: 54px;
+  height: 60px;
+  object-fit: cover;
+}
+.image-19-icon,
+.image-20-icon {
+  left: 180px;
+  width: 69.6px;
+}
+.image-20-icon {
+  top: 650px;
+  left: 265px;
+  width: 51px;
+}
+.trousers {
+  position: absolute;
+  top: 710px;
+  left: 112px;
+}
+.crop-tops,
+.image-21-icon,
+.t-shirts {
+  position: absolute;
+  top: 710px;
+  left: 198px;
+}
+.image-21-icon,
+.t-shirts {
+  left: 276px;
+}
+.image-21-icon {
+  top: 317px;
+  left: 101px;
+  border-radius: 770px;
+  width: 50.3px;
+  height: 60px;
+  object-fit: cover;
+}
+.dresses,
+.tops1 {
+  position: absolute;
+  top: 378px;
+  left: 116px;
+}
+.dresses {
+  left: 193px;
+}
+.image-23-icon,
+.image-24-icon,
+.image-25-icon {
+  position: absolute;
+  top: 421px;
+  left: 101px;
+  border-radius: var(--br-51xl);
+  width: 54px;
+  height: 60px;
+  object-fit: cover;
+}
+.image-24-icon,
+.image-25-icon {
+  left: 263px;
+  width: 48.2px;
+}
+.image-25-icon {
+  left: 180px;
+  width: 47.4px;
+}
+.jeans,
+.jumpsuits,
+.shorts {
+  position: absolute;
+  top: 482px;
+  left: 116px;
+}
+.jeans,
+.jumpsuits {
+  left: 182px;
+}
+.jeans {
+  left: 277px;
+}
+.image-26-icon,
+.image-27-icon,
+.image-28-icon {
+  position: absolute;
+  top: 536px;
+  left: 101px;
+  border-radius: var(--br-51xl);
+  width: 56.8px;
+  height: 60px;
+  object-fit: cover;
+}
+.image-27-icon,
+.image-28-icon {
+  top: 537px;
+  left: 180px;
+  width: 61.1px;
+}
+.image-28-icon {
+  top: 535px;
+  left: 263px;
+  width: 54.3px;
+}
+.blazers,
+.shirts,
+.waistcoat {
+  position: absolute;
+  top: 597px;
+  left: 116px;
+}
+.blazers,
+.waistcoat {
+  left: 193px;
+}
+.blazers {
+  left: 279px;
+}
+.image-29-icon,
+.image-30-icon,
+.image-31-icon {
+  position: absolute;
+  top: 205px;
+  left: 101px;
+  border-radius: var(--br-51xl);
+  width: 45.9px;
+  height: 60px;
+  object-fit: cover;
+}
+.image-30-icon,
+.image-31-icon {
+  left: 180px;
+  width: 50px;
+}
+.image-31-icon {
+  left: 263px;
+  width: 48.8px;
+}
+.sarees,
+.suits {
+  position: absolute;
+  top: 272px;
+  left: 109px;
+}
+.suits {
+  left: 193px;
+}
+.image-32-icon,
+.lehengaball-gown {
+  position: absolute;
+  top: 272px;
+  left: 252px;
+}
+.image-32-icon {
+  top: 317px;
+  left: 263px;
+  border-radius: var(--br-51xl);
+  width: 50px;
+  height: 60px;
+  object-fit: cover;
+}
+.midi-dresses,
+.see-more {
+  position: absolute;
+  top: 378px;
+  left: 263px;
+}
+.see-more {
+  top: 730px;
+  left: 294px;
+  font-size: var(--font-size-3xs);
+  font-weight: 800;
+}
+.clothes {
+  position: absolute;
+  top: 138px;
+  left: 154px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-jsmath-cmbx10);
+}
+.image-22-icon {
+  position: absolute;
+  top: 308px;
+  left: 172px;
+  border-radius: var(--br-51xl);
+  width: 52.2px;
+  height: 60px;
+  object-fit: cover;
+}
+.android-large-4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 800px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-5xs);
+  color: var(--m3-ref-neutral-neutral0);
+  font-family: var(--font-inter);
+}

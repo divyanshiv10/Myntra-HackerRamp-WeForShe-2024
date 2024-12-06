@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-inknut-antiqua: "Inknut Antiqua";
+  --font-lexend: Lexend;
+  --font-hepta-slab: "Hepta Slab";
+  --font-inria-serif: "Inria Serif";
+  --font-jsmath-cmbx10: jsMath-cmbx10;
+
+  /* font sizes */
+  --font-size-xs: 12px;
+  --font-size-base: 16px;
+  --font-size-sm: 14px;
+  --font-size-7xl: 26px;
+  --font-size-xl: 20px;
+  --font-size-3xs: 10px;
+  --font-size-4xs: 9px;
+  --font-size-5xs: 8px;
+
+  /* Colors */
+  --color-white: #fff;
+  --m3-ref-neutral-neutral0: #000;
+  --color-gray-100: #838383;
+  --color-gray-200: rgba(0, 0, 0, 0.34);
+  --color-gray-300: rgba(0, 0, 0, 0.5);
+  --color-gainsboro-100: #e8e8e8;
+  --color-gainsboro-200: #e5e5e5;
+  --color-gainsboro-300: #d9d9d9;
+  --color-red: #ff2727;
+  --color-blueviolet: #9747ff;
+  --color-tomato-100: #ff4d4d;
+  --color-tomato-200: #ff4343;
+  --color-whitesmoke-100: #f4f4f4;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-base: 16px;
+
+  /* Border radiuses */
+  --br-5xs: 8px;
+  --br-8xs: 5px;
+  --br-xl: 20px;
+  --br-3xs: 10px;
+  --br-mini: 15px;
+  --br-51xl: 70px;
+  --br-31xl: 50px;
+}

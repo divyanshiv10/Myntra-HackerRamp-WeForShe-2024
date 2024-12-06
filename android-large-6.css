@@ -1,0 +1,357 @@
+.android-large-6-child {
+  position: absolute;
+  top: 755px;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--m3-ref-neutral-neutral0);
+  box-sizing: border-box;
+  width: 360px;
+  height: 46px;
+}
+.image-3-icon11,
+.image-4-icon11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 61px;
+  height: 49px;
+  object-fit: cover;
+}
+.image-4-icon11 {
+  left: 73px;
+  width: 65px;
+}
+.shopping-bag-icon19 {
+  position: absolute;
+  top: 1px;
+  left: 312px;
+  width: 48px;
+  height: 48px;
+  overflow: hidden;
+}
+.heart-icon19,
+.notifications-icon11 {
+  position: absolute;
+  top: 5px;
+  left: 256px;
+  width: 49px;
+  height: 44px;
+  overflow: hidden;
+}
+.notifications-icon11 {
+  left: 201px;
+  width: 48px;
+}
+.chat11,
+.home11,
+.occassion11,
+.trending11 {
+  position: absolute;
+  top: 770px;
+  left: 7px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 74px;
+  height: 19px;
+}
+.chat11,
+.occassion11,
+.trending11 {
+  left: 69px;
+  width: 94px;
+  height: 17px;
+}
+.chat11,
+.trending11 {
+  left: 163px;
+  width: 77px;
+  height: 15px;
+}
+.chat11 {
+  top: 771px;
+  left: 246px;
+  width: 61px;
+  height: 10px;
+}
+.android-large-6-item {
+  position: absolute;
+  top: 763px;
+  left: 307px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-300);
+  width: 42px;
+  height: 37px;
+}
+.person-icon11 {
+  position: absolute;
+  top: 766px;
+  left: 316px;
+  width: 24px;
+  height: 24px;
+}
+.image-34-icon,
+.image-35-icon {
+  position: absolute;
+  top: 640px;
+  left: 14px;
+  width: 73.8px;
+  height: 80px;
+  object-fit: cover;
+}
+.image-35-icon {
+  top: 511px;
+  width: 82.9px;
+}
+.beauty-products,
+.footware,
+.jewellery {
+  position: absolute;
+  top: 368px;
+  left: 16px;
+  font-size: var(--font-size-sm);
+}
+.beauty-products,
+.footware {
+  top: 494px;
+  left: 7px;
+}
+.footware {
+  top: 616px;
+  left: 16px;
+}
+.image-36-icon,
+.image-37-icon,
+.image-38-icon,
+.image-39-icon,
+.image-40-icon {
+  position: absolute;
+  top: 385px;
+  left: 118px;
+  border-radius: var(--br-31xl);
+  width: 66px;
+  height: 63px;
+  object-fit: cover;
+}
+.image-37-icon,
+.image-38-icon,
+.image-39-icon,
+.image-40-icon {
+  left: 197px;
+  width: 64.6px;
+  height: 60px;
+}
+.image-38-icon,
+.image-39-icon,
+.image-40-icon {
+  left: 275px;
+  width: 62px;
+}
+.image-39-icon,
+.image-40-icon {
+  top: 640px;
+  left: 116px;
+}
+.image-40-icon {
+  left: 193px;
+  width: 66px;
+}
+.recommendation {
+  position: absolute;
+  top: 326px;
+  left: 14px;
+  font-size: var(--font-size-sm);
+  font-weight: 800;
+}
+.image-41-icon,
+.image-43-icon,
+.image-44-icon {
+  position: absolute;
+  top: 640px;
+  left: 282px;
+  border-radius: var(--br-31xl);
+  width: 55.7px;
+  height: 60px;
+  object-fit: cover;
+}
+.image-43-icon,
+.image-44-icon {
+  top: 511px;
+  left: 197px;
+  width: 62.1px;
+}
+.image-44-icon {
+  top: 512px;
+  left: 278px;
+  width: 56.5px;
+}
+.bracelets,
+.earrings,
+.necklace {
+  position: absolute;
+  top: 452px;
+  left: 129px;
+}
+.bracelets,
+.necklace {
+  left: 211px;
+}
+.bracelets {
+  left: 283px;
+}
+.eye-makeup,
+.lipstick {
+  position: absolute;
+  top: 584px;
+  left: 130px;
+}
+.eye-makeup {
+  left: 199px;
+}
+.flats,
+.nail-polish {
+  position: absolute;
+  top: 585px;
+  left: 286px;
+}
+.flats {
+  top: 708px;
+  left: 129px;
+}
+.sneakers,
+.sports-shoes {
+  position: absolute;
+  top: 710px;
+  left: 204px;
+}
+.sports-shoes {
+  top: 708px;
+  left: 278px;
+}
+.android-large-6-inner {
+  position: absolute;
+  top: 67px;
+  left: 10px;
+  border-radius: var(--br-5xs);
+  width: 340px;
+  height: 30px;
+}
+.android-large-6-child1 {
+  position: absolute;
+  top: 127px;
+  left: 7px;
+  background-color: var(--color-whitesmoke-100);
+  width: 342px;
+  height: 138px;
+}
+.android-large-6-child2 {
+  position: absolute;
+  top: 127px;
+  left: 16px;
+  width: 108px;
+  height: 135px;
+  object-fit: cover;
+}
+.harpa2 {
+  position: absolute;
+  top: 145px;
+  left: 129px;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  width: 212px;
+  height: 21px;
+}
+.quantity1,
+.size-medium-container1,
+.womens-regular-fit-top1 {
+  position: absolute;
+  top: 175px;
+  left: 131px;
+  font-size: var(--font-size-xs);
+  display: inline-block;
+  width: 210px;
+  height: 27px;
+}
+.quantity1,
+.size-medium-container1 {
+  top: 194px;
+  left: 129px;
+  width: 90px;
+  height: 15px;
+}
+.quantity1 {
+  top: 214px;
+  width: 54px;
+  height: 11px;
+}
+.android-large-6-child3 {
+  position: absolute;
+  top: 214px;
+  left: 188px;
+  background-color: var(--color-white);
+  width: 23px;
+  height: 14px;
+}
+.div12 {
+  position: absolute;
+  top: 214px;
+  left: 192px;
+  font-size: var(--font-size-xs);
+  display: inline-block;
+  width: 14px;
+  height: 6px;
+}
+.arrow-drop-down-icon1 {
+  position: absolute;
+  top: 209px;
+  left: 192px;
+  width: 24px;
+  height: 24px;
+}
+.android-large-6-child4 {
+  position: absolute;
+  top: 233px;
+  left: 236px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-tomato-100);
+  width: 105px;
+  height: 23px;
+}
+.image-33-icon1,
+.image-42-icon {
+  position: absolute;
+  top: 387px;
+  left: 30px;
+  width: 86.2px;
+  height: 80px;
+  object-fit: cover;
+}
+.image-42-icon {
+  top: 521px;
+  left: 119px;
+  border-radius: var(--br-31xl);
+  width: 61px;
+  height: 60px;
+}
+.remove1 {
+  position: absolute;
+  top: 239px;
+  left: calc(50% + 83px);
+  font-size: var(--font-size-xs);
+  display: flex;
+  color: var(--color-white);
+  align-items: center;
+  width: 82px;
+  height: 10px;
+}
+.android-large-6 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 800px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-3xs);
+  color: var(--m3-ref-neutral-neutral0);
+  font-family: var(--font-inter);
+}

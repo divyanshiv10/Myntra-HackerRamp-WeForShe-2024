@@ -1,0 +1,336 @@
+.top-opening-page-child2 {
+  position: absolute;
+  top: 755px;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--m3-ref-neutral-neutral0);
+  box-sizing: border-box;
+  width: 360px;
+  height: 46px;
+}
+.image-3-icon7,
+.image-4-icon7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 61px;
+  height: 49px;
+  object-fit: cover;
+}
+.image-4-icon7 {
+  left: 73px;
+  width: 65px;
+}
+.shopping-bag-icon12 {
+  position: absolute;
+  top: 1px;
+  left: 312px;
+  width: 48px;
+  height: 48px;
+  overflow: hidden;
+}
+.heart-icon12,
+.notifications-icon7 {
+  position: absolute;
+  top: 5px;
+  left: 256px;
+  width: 49px;
+  height: 44px;
+  overflow: hidden;
+}
+.notifications-icon7 {
+  left: 201px;
+  width: 48px;
+}
+.chat7,
+.home7,
+.occassion7,
+.trending7 {
+  position: absolute;
+  top: 770px;
+  left: 7px;
+  display: inline-block;
+  width: 74px;
+  height: 19px;
+}
+.chat7,
+.occassion7,
+.trending7 {
+  left: 69px;
+  width: 94px;
+  height: 17px;
+}
+.chat7,
+.trending7 {
+  left: 163px;
+  width: 77px;
+  height: 15px;
+}
+.chat7 {
+  top: 771px;
+  left: 246px;
+  width: 61px;
+  height: 10px;
+}
+.top-opening-page-child3 {
+  position: absolute;
+  top: 763px;
+  left: 307px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-300);
+  width: 42px;
+  height: 37px;
+}
+.arrow-back-icon2,
+.back-to-main2,
+.person-icon7 {
+  position: absolute;
+  top: 766px;
+  left: 316px;
+  width: 24px;
+  height: 24px;
+}
+.arrow-back-icon2,
+.back-to-main2 {
+  top: 84px;
+  left: 18px;
+}
+.back-to-main2 {
+  left: 48px;
+  display: inline-block;
+  width: 165px;
+  height: 29px;
+}
+.top-opening-page-child4 {
+  position: absolute;
+  top: 134px;
+  left: 16px;
+  width: 328px;
+  height: 287px;
+  object-fit: cover;
+}
+.span2 {
+  color: var(--color-gray-200);
+}
+.div5,
+.harpa-womens-regular2,
+.size2 {
+  position: absolute;
+  font-size: var(--font-size-7xl);
+  display: inline-block;
+}
+.div5 {
+  top: 421px;
+  left: 76px;
+  text-align: center;
+  width: 183px;
+  height: 22px;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.harpa-womens-regular2,
+.size2 {
+  top: 484px;
+  left: 16px;
+  width: 338px;
+  height: 29px;
+}
+.size2 {
+  top: 569px;
+  left: 15px;
+  width: 78px;
+  height: 24px;
+}
+.group-child50 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-300);
+  width: 38px;
+  height: 33px;
+}
+.s4 {
+  position: absolute;
+  top: 2px;
+  left: 11px;
+  display: inline-block;
+  width: 21px;
+  height: 14px;
+}
+.group-child51 {
+  position: absolute;
+  top: 0;
+  left: 149px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-300);
+  width: 38px;
+  height: 33px;
+}
+.xl4 {
+  position: absolute;
+  top: 1px;
+  left: 155px;
+  display: inline-block;
+  width: 35px;
+  height: 14px;
+}
+.group-child52 {
+  position: absolute;
+  top: 2px;
+  left: 47px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-300);
+  width: 38px;
+  height: 33px;
+}
+.group-child53,
+.m4 {
+  position: absolute;
+  top: 1px;
+}
+.m4 {
+  left: 54px;
+  display: inline-block;
+  width: 21px;
+  height: 14px;
+}
+.group-child53 {
+  left: 98px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-300);
+  width: 38px;
+  height: 33px;
+}
+.l4 {
+  position: absolute;
+  top: 2px;
+  left: 109px;
+  display: inline-block;
+  width: 21px;
+  height: 14px;
+}
+.div6,
+.ellipse-parent1 {
+  position: absolute;
+  top: 565px;
+  left: 100px;
+  width: 190px;
+  height: 35px;
+  font-size: var(--font-size-7xl);
+}
+.div6 {
+  top: 647px;
+  left: 17px;
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 83px;
+  height: 12px;
+}
+.top-opening-page-child5 {
+  position: absolute;
+  top: 647px;
+  left: 18px;
+  width: 82px;
+  height: 44px;
+  object-fit: contain;
+}
+.b2 {
+  position: absolute;
+  top: 614px;
+  left: 20px;
+  font-size: var(--font-size-xl);
+  display: flex;
+  align-items: center;
+  width: 147px;
+  height: 30px;
+}
+.group-child54,
+.group-child55 {
+  position: absolute;
+  top: 0;
+  width: 163px;
+  height: 32px;
+}
+.group-child54 {
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--m3-ref-neutral-neutral0);
+  box-sizing: border-box;
+}
+.group-child55 {
+  left: 175px;
+  background-color: var(--color-red);
+}
+.add-to-bag5 {
+  position: absolute;
+  top: 11px;
+  left: 205px;
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  width: 101px;
+  height: 9px;
+}
+.shopping-bag-icon13 {
+  position: absolute;
+  top: 6px;
+  left: 296px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.wishlist10 {
+  position: absolute;
+  top: 9px;
+  left: 26px;
+  display: flex;
+  align-items: center;
+  width: 90px;
+  height: 13px;
+}
+.heart-icon13 {
+  position: absolute;
+  top: 4px;
+  left: 88px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: 705px;
+  left: 12px;
+  width: 338px;
+  height: 32px;
+  font-size: var(--font-size-sm);
+}
+.off2,
+.try-on2 {
+  position: absolute;
+}
+.off2 {
+  top: 658px;
+  left: 109px;
+  font-size: var(--font-size-sm);
+  display: flex;
+  align-items: center;
+  width: 54px;
+}
+.try-on2 {
+  top: 652px;
+  left: 265px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-inknut-antiqua);
+}
+.top-opening-page2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 800px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--m3-ref-neutral-neutral0);
+  font-family: var(--font-inter);
+}
